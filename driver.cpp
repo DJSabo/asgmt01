@@ -10,7 +10,8 @@ using namespace std;
 //test3
 //test2
 //test5
-//djtest1
+//test6
+
 int main()
 {
 	_CrtSetDbgFlag(_CRTDBG_ALLOC_MEM_DF | _CRTDBG_LEAK_CHECK_DF);
